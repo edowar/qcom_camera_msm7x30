@@ -39,6 +39,7 @@
 extern "C" {
 #include <linux/android_pmem.h>
 #include <msm_camera.h>
+
 }
 
 // Mix and match AOSP/CYANOGEN
